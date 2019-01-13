@@ -1,0 +1,6 @@
+﻿token=NDc2MDEyMjQxMDA3ODA0NDM2.Dx077w.TVMTWwSmHNZGkpAT4w5IGbE4RWQ
+owner=347379495528824832
+prefix= 1
+game= 1play , Minton
+stayinchannel=true
+songinstatus=true 
